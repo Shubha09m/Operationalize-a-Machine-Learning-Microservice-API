@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete
 
 ## Project Overview
 
