@@ -1,4 +1,5 @@
-=for HTML <a href="https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete"><img src="https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete.svg?style=svg"></a>
+[![CircleCI](https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete.svg?style=svg)](https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete)
+
 
 
 ## Project Overview
