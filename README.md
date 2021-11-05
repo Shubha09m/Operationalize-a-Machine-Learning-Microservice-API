@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete.svg?style=svg)](https://app.circleci.com/pipelines/github/Shubha09m/project-ml-microservice-kubernete)
+
+
 
 ## Project Overview
 
